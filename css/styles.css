@@ -1,0 +1,41 @@
+body{
+    
+    background-color:white;
+   margin: 0px;
+   text-align: center;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1 { position:relative;
+   
+}
+.profile{
+    background-color: white;
+}
+.bottom-container{
+    background-color: antiquewhite;
+}
+.akshay-img{
+    display: block;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;   
+}
+h2{
+    text-align: center;  
+}
+.skills{
+    text-align: center;
+}
+.web-img{
+    width: 10%;
+}
+.computer{
+    width: 10%;
+}
+.insta{
+    width: 1%;
+}
+
+
+    
