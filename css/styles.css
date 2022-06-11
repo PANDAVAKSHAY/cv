@@ -1,13 +1,15 @@
 body{
-    
+    text-align: center;
     background-color:white;
    margin: 0px;
-   text-align: center;
+ 
    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 h1 { position:relative;
-   
+   font-size: 2.63rem;
+   line-height:2rem;
+   color: #66BFBF;
 }
 .profile{
     background-color: white;
@@ -22,20 +24,66 @@ h1 { position:relative;
     margin-right: auto;   
 }
 h2{
-    text-align: center;  
+    text-align: center; 
+    font-size: 2.5 rem;
+    color: #66BFBF;
+    font-weight: normal;
 }
 .skills{
-    text-align: center;
+    margin: auto 100px auto 100px;
 }
 .web-img{
-    width: 15%;
+    width: 20%;
+    position: relative;
+    float: left;
+    margin-right: 30px;
 }
 .computer{
-    width: 15%;
+    width: 25%;
+    float: right;
+    margin-right: 30px;
 }
 .insta{
-    width: 5%;
+    width: 3%;
+    position: static; 
 }
-
-
-    
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    width: 20px auto 10px auto;
+    font-size: 20px;
+}
+.web{
+    width: 70%;
+    margin: auto auto 80px auto;
+}
+.com{
+    width: 70%;
+    margin: auto;
+}
+.c-skil{
+    text-align: left;
+}
+.dd{
+    text-align: left;
+}
+p{
+    text-align: left;
+}
+hr{
+    border-style: none;
+        border-top-style: dotted;
+        border-color: gray;
+        border-width: 5px;
+        width: 5%;
+}
+.social{
+    background-color: #66BFBF;
+    padding-top: 10px;
+    padding-bottom: 3px;
+}
+.copy{
+    color: #EAF6F6;
+}
